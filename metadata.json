@@ -1,0 +1,6 @@
+{
+  "name": "T.S Medicine Minutes",
+  "description": "Express 30-minute urgent prescription delivery and online medicine shopping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

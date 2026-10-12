@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Medicine Minutes</string>
+    <string name="tagline">30-Minute Urgent Prescription Delivery</string>
+    <string name="emergency_hotline">Emergency Pharmacist Hotline</string>
+    <string name="cart_title">Express Cart</string>
+    <string name="prescription_title">Urgent Prescription</string>
+    <string name="orders_title">My Orders</string>
+    <string name="tracking_title">Live Delivery Tracker</string>
+</resources>
